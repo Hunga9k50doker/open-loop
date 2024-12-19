@@ -1,4 +1,5 @@
 # OpenLoop Decentralized bandwidth
+
 OpenLoop Network is a decentralized wireless network built to enhance Internet service delivery, making it more efficient, accessible, and rewarding for everyone. 🤩
 
 - Register [https://openloop.so/](https://openloop.so/)
@@ -20,7 +21,7 @@ OpenLoop Network is a decentralized wireless network built to enhance Internet s
 
 ## **make sure you have same number account and proxy**
 
-if you already have account you can put `access-token` to `tokens.txt`,
+if you already have account you can put `access-token` to `token.txt`,
 
 put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
 
@@ -50,6 +51,3 @@ put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
 
 This project is licensed under the [MIT License](LICENSE).
 Source <https://github.com/Hunga9k50doker>
-#   o p e n - l o o p 
- 
- 
